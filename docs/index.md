@@ -17,5 +17,6 @@ Under Review at ICCV 2025. Stay tuned for updates!
 ## 🚀 Code Release
 Code will be released after paper acceptance.
 
----
-[GitHub Repository](https://github.com/AnonymousLEG-SLAM/LEG-SLAM/)
+### Links
+- [GitHub Repository](https://github.com/Titrom025/LEG-SLAM/)
+- [Project Page](https://titrom025.github.io/LEG-SLAM/)
